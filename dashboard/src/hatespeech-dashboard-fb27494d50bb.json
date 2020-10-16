@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "hatespeech-dashboard",
+  "private_key_id": "fb27494d50bbddbfd0efcdaabe40f211f14a9ad9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDRU2n16JNUVWIK\nh80z4ydqQcpiIAFcU0AThQQ1qTK8wBFMUJnZW2MtNke9UcmJxdvgLrk1irWj5qVo\n6zIEPGxnDxvgpH0BFViuipMghOp1788duJ/YmJVO0Q1y5BQFuljQgZeDf/uiPil+\npNZEfclsoXcwaAEnsEPXKguqhWVm6JZFrROwV1USosxUvgslL1p6sEl+Us0CVUx3\nx5BYCJIEv0Nu/zYC2gdTKKUAauKuH03ApBycXRvKvc2kydhlTUR68W2k7jLuVT4V\nEUyX/MyD9ltTPauOFW6Ft46PVundZXmEW7MNZGffE/2DuA76VorRUdqD+BpX98D6\n6yTz/d4RAgMBAAECggEABOSqSXFSYFpOnGhoR5o7xaQcEwckgQABM3OckZSO9xKW\nVO5dalNUki3+p1JOH8ZcSXVOJw5DCL3PiBBXbvnqns4fnLS7p1bUZ+AdaFkzEea1\nNMCoG+wVMW55ngHu5eNhSB5/aDeJrlU9qxQ3XgqCtuNfYeZMgJ0COPlmpGnR4QHs\nB7yKq4e3ITAFmjGbZ74qmCK0pW9r9LNVkY6ea0sGT17jKV5Os4AagOFTnwIaKie/\n7oNFypJdAVL0Q+Va0GmHYOpKj9Zw7zH7gakN0IvpP5Ibx3Im8Y7m21vxxtAEoX05\nYedcmVaZ/YWzLeR9kdjUVJhFcE0V9AE6oRfyWoFhMQKBgQD4hbg0lfpPmL1pX+3T\naMAo77hSaIid93/w8hLmn6C330h+yk09MYLLD++RgVLAAJs3H4IHzh0e/EWs/c55\n0Ez5onuHAvjgiGnN8jXZcj9IUpYkIdhwo5viduG/hKUDkBgVTRAxWs+REmbFVSEn\nzJfjTwfuADyYhPkmVT5BjtsA+wKBgQDXn8cEhZQOA7rPiVT2rMxhSJQ96aneJQUa\nia9R1ulBWWZNn8VYGQ9hh23L68G3BW0DiTQT1D1idOjSpAmfH03c0X9YkxXx38A1\nYEHNyIsV/gQVg0ltGElaN87vVUGzQEroCbgJ74pBuVg26cx3KgB2eirWXIsBTslc\nGOEdzh7nYwKBgQD04r7qgkaOnFE4PmCZCwUe0WhtO7gzACjAAakCO5Ug2hITbcDC\nZcEd2uwUEry5mV9Y5+E3U7B6UddOaSJGAi13ZtYV6aXXilPHrb3GML+OwmJT5E3k\nYDNA6if0kf4QDrLMeo1UNMmHh/xgwkvTbdTVFZEYwn7zQ0RGs4SPEPdYdQKBgGEj\nJbEvzCcUHxBnudL2vYwF+mJ55YCiBM6TwFuKCcLa12+YznqFr5wsOpZnOvmMhDPX\nl5JnRtAYAtsB8yOwIo+cAVaRzI0OU7S4DGz8L0xVBtn6LxXqnwD5q0u+iL6L9DLc\nTgCL3SkGqmryoJ3+Wf8Fwk6XmjeYmrXWr3OR6/IpAoGBAPbm4FVWLVgzShlJ3HFz\nMXyaD2GnTPQq/21jeq7Hv5Pe/e/EUWLBb2Dd8L/8LaWqS8VZulFCl2+tsCl2Autm\noi4VZsJIgK/IJ8uIX8fFRz7EO/wtELnoSupKmVVBcmlsW9CW1+uSO0279dTfsioi\n6Rb/IUDWEsPJhl9Xqd2lFvbT\n-----END PRIVATE KEY-----\n",
+  "client_email": "hatespeech@hatespeech-dashboard.iam.gserviceaccount.com",
+  "client_id": "103387987277518788928",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/hatespeech%40hatespeech-dashboard.iam.gserviceaccount.com"
+}

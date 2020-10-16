@@ -1,0 +1,5 @@
+post_has_lex,comment_has_lex,count
+Post with HSL,Comment with HSL,68
+Post with HSL,Comment with no HSL,2569
+Post with no HSL,Comment with HSL,1074
+Post with no HSL,Comment with no HSL,84131
